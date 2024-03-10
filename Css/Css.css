@@ -1,0 +1,41 @@
+body{
+    
+    background-image: url(https://aif-s3.aif.ru/images/026/020/9a68775e62bd8c0bb439bb1272bd70d2.jpg);
+  
+   background-size:cover;
+    
+    background-color: aquamarine;
+    cursor: url(https://ani.cursors-4u.net/comics/mic-1/mic16.cur), auto !important;
+    .Foto{
+        opacity: 0.8;
+    }
+
+   .Text{
+    color: blue;
+
+   }
+   .Text:hover{
+    color: blueviolet;
+   }
+
+   #up{
+    text-align: center;
+    color: rgb(5, 194, 30);
+
+   }
+
+    button{
+
+    color: rgba(236, 1, 166, 0.733);background-color: rgba(12, 202, 235, 0.63);
+
+    }
+
+    .Table{
+        color: brown;
+        text-align: center;
+        background-color: rgba(210, 105, 30, 0.301);
+    }
+
+   
+
+}
